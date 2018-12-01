@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.9.0.164</string>
+	<key>Date</key><date>2018-11-26T16:46:03Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>E8A7F35F56CB04B2</string>
+	<key>Tracks</key>
+    <dict>
+        <key>858</key>
+        <dict>
+            <key>Track ID</key><integer>858</integer>
+            <key>Size</key><integer>8426552</integer>
+            <key>Total Time</key><integer>232187</integer>
+            <key>Disc Number</key><integer>1</integer>
+            <key>Disc Count</key><integer>1</integer>
+            <key>Track Number</key><integer>1</integer>
+            <key>Track Count</key><integer>12</integer>
+            <key>Year</key><integer>2015</integer>
+            <key>Date Modified</key><date>2016-09-07T04:28:25Z</date>
+            <key>Date Added</key><date>2016-09-07T06:34:38Z</date>
+            <key>Bit Rate</key><integer>256</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Play Count</key><integer>368</integer>
+            <key>Play Date</key><integer>3624302211</integer>
+            <key>Play Date UTC</key><date>2018-11-06T04:36:51Z</date>
+            <key>Skip Count</key><integer>4</integer>
+            <key>Skip Date</key><date>2018-04-23T17:52:38Z</date>
+            <key>Release Date</key><date>2015-02-24T08:00:00Z</date>
+            <key>Artwork Count</key><integer>1</integer>
+            <key>Persistent ID</key><string>2C11877AAB8579C4</string>
+            <key>Track Type</key><string>Remote</string>
+            <key>Apple Music</key><true/>
+            <key>Name</key><string>Our Own House</string>
+            <key>Artist</key><string>MisterWives</string>
+            <key>Album Artist</key><string>MisterWives</string>
+            <key>Composer</key><string>Mandy Lee &#38; Martin Terefe</string>
+            <key>Album</key><string>Our Own House</string>
+            <key>Genre</key><string>Alternative</string>
+            <key>Kind</key><string>Apple Music AAC audio file</string>
+            <key>Sort Name</key><string>Our Own House</string>
+            <key>Sort Album</key><string>Our Own House</string>
+            <key>Sort Artist</key><string>MisterWives</string>
+        </dict>
+		<key>865</key>
+		<dict>
+			<key>Track ID</key><integer>865</integer>
+			<key>Size</key><integer>6662808</integer>
+			<key>Total Time</key><integer>186440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-09-07T02:28:25Z</date>
+			<key>Date Added</key><date>2016-09-07T06:34:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>387</integer>
+			<key>Play Date</key><integer>3626356429</integer>
+			<key>Play Date UTC</key><date>2018-11-29T23:13:49Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-06-14T19:31:58Z</date>
+			<key>Release Date</key><date>2014-01-07T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8175ECDD8108EA7D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>Reflections</string>
+			<key>Artist</key><string>MisterWives</string>
+			<key>Album Artist</key><string>MisterWives</string>
+			<key>Composer</key><string>Mandy Lee Duffy</string>
+			<key>Album</key><string>Our Own House</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>Reflections</string>
+			<key>Sort Album</key><string>Our Own House</string>
+			<key>Sort Artist</key><string>MisterWives</string>
+		</dict>
+		<key>867</key>
+		<dict>
+			<key>Track ID</key><integer>867</integer>
+			<key>Size</key><integer>8862285</integer>
+			<key>Total Time</key><integer>252267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-09-07T04:28:25Z</date>
+			<key>Date Added</key><date>2016-09-07T06:34:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>154</integer>
+			<key>Play Date</key><integer>3626356681</integer>
+			<key>Play Date UTC</key><date>2018-11-29T23:18:01Z</date>
+			<key>Release Date</key><date>2015-02-24T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ABC44C307E7304C2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>Oceans</string>
+			<key>Artist</key><string>MisterWives</string>
+			<key>Album Artist</key><string>MisterWives</string>
+			<key>Composer</key><string>Mandy Lee</string>
+			<key>Album</key><string>Our Own House</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>Oceans</string>
+			<key>Sort Album</key><string>Our Own House</string>
+			<key>Sort Artist</key><string>MisterWives</string>
+		</dict>
+				<key>1001</key>
+		<dict>
+			<key>Track ID</key><integer>1001</integer>
+			<key>Size</key><integer>7784802</integer>
+			<key>Total Time</key><integer>209280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2016-09-07T06:08:55Z</date>
+			<key>Date Added</key><date>2016-09-07T06:34:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>250</integer>
+			<key>Play Date</key><integer>3625709994</integer>
+			<key>Play Date UTC</key><date>2018-11-22T11:39:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-03T16:36:54Z</date>
+			<key>Release Date</key><date>2012-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>90041F021489D8DA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>Closer</string>
+			<key>Artist</key><string>Tegan and Sara</string>
+			<key>Album Artist</key><string>Tegan and Sara</string>
+			<key>Album</key><string>Heartthrob (Deluxe Version)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>Closer</string>
+			<key>Sort Album</key><string>Heartthrob (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Tegan and Sara</string>
+		</dict>
+        <key>1940</key>
+		<dict>
+			<key>Track ID</key><integer>1940</integer>
+			<key>Size</key><integer>6525536</integer>
+			<key>Total Time</key><integer>178253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-03-05T02:56:48Z</date>
+			<key>Date Added</key><date>2017-03-05T03:50:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>183</integer>
+			<key>Play Date</key><integer>3626072505</integer>
+			<key>Play Date UTC</key><date>2018-11-26T16:21:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-25T04:44:55Z</date>
+			<key>Release Date</key><date>2013-03-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>880676C637271860</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>On ira</string>
+			<key>Artist</key><string>ZAZ</string>
+			<key>Album Artist</key><string>ZAZ</string>
+			<key>Composer</key><string>Kerredine Soltani &#38; Tryss</string>
+			<key>Album</key><string>Recto verso (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>On ira</string>
+			<key>Sort Album</key><string>Recto verso (Deluxe)</string>
+			<key>Sort Artist</key><string>ZAZ</string>
+		</dict>
+        <key>3432</key>
+		<dict>
+			<key>Track ID</key><integer>3432</integer>
+			<key>Size</key><integer>8181593</integer>
+			<key>Total Time</key><integer>230020</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-12T05:02:49Z</date>
+			<key>Date Added</key><date>2018-07-12T05:02:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3625929591</integer>
+			<key>Play Date UTC</key><date>2018-11-25T00:39:51Z</date>
+			<key>Release Date</key><date>2018-07-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C96F802015FF03D7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>Dark Saturday</string>
+			<key>Artist</key><string>Metric</string>
+			<key>Album Artist</key><string>Metric</string>
+			<key>Composer</key><string>Metric, Emily Haines &#38; Jimmy Shaw</string>
+			<key>Album</key><string>Dark Saturday - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>Dark Saturday</string>
+			<key>Sort Album</key><string>Dark Saturday - Single</string>
+			<key>Sort Artist</key><string>Metric</string>
+		</dict>
+        <key>3434</key>
+		<dict>
+			<key>Track ID</key><integer>3434</integer>
+			<key>Size</key><integer>6928475</integer>
+			<key>Total Time</key><integer>193356</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-17T15:27:28Z</date>
+			<key>Date Added</key><date>2018-07-17T15:27:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3626036406</integer>
+			<key>Play Date UTC</key><date>2018-11-26T06:20:06Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-10-01T03:01:23Z</date>
+			<key>Release Date</key><date>2017-08-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C32E81DF0CC94A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>COPYCAT</string>
+			<key>Artist</key><string>Billie Eilish</string>
+			<key>Album Artist</key><string>Billie Eilish</string>
+			<key>Composer</key><string>Finneas O'Connell &#38; Billie Eilish O'Connell</string>
+			<key>Album</key><string>dont smile at me</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>COPYCAT</string>
+			<key>Sort Album</key><string>dont smile at me</string>
+			<key>Sort Artist</key><string>Billie Eilish</string>
+		</dict>
+        <key>3508</key>
+		<dict>
+			<key>Track ID</key><integer>3508</integer>
+			<key>Size</key><integer>8366226</integer>
+			<key>Total Time</key><integer>228433</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-08-02T23:46:38Z</date>
+			<key>Date Added</key><date>2018-08-23T21:18:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3625705730</integer>
+			<key>Play Date UTC</key><date>2018-11-22T10:28:50Z</date>
+			<key>Release Date</key><date>2018-02-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A96B51FD46F2BE10</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Name</key><string>Cold</string>
+			<key>Artist</key><string>Rich Brian</string>
+			<key>Album Artist</key><string>Rich Brian</string>
+			<key>Album</key><string>Amen</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Sort Name</key><string>Cold</string>
+			<key>Sort Album</key><string>Amen</string>
+			<key>Sort Artist</key><string>Rich Brian</string>
+		</dict>
+    </dict>
+</dict>
+</plist>
