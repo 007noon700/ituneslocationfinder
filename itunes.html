@@ -8,6 +8,20 @@
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>iTunes Library Artist Mapper!</h1>
+        <p>This is a tool that harnesses the combined powers of Python, AWS Lambda, and React.js to read an iTunes Music Library.xml file and pull out all of the artists in your library, before working its magic and nicely mapping out where every artist is from.</p>
+        <p>You can see the source on gitHub <a href='https://github.com/007noon700/ituneslocationfinder'>here.</a></p>
+        <div id="like_button_container"></div>
+        <div id="container"></div>
+        <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/prop-types/prop-types.min.js"></script>
+    <script src="https://unpkg.com/recharts/umd/Recharts.min.js"></script>
+
+  <!-- Load our React component. -->
+  <script src="like_button.js"></script>
+  <script src="colorMap.js"></script>
     </body>
 </html>

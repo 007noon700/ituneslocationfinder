@@ -3,18 +3,22 @@ from libpytunes import Library
 from collections import Counter
 import musicbrainzngs
 import requests
+# import boto3
 
 musicbrainzngs.set_useragent("Artist Nationality Sorter", "a0.0.2", "alexchow.me")
 
 
-l = Library('iTunes Music Library.xml')
+l = Library('/Users/alexchow/Music/iTunes/iTunes Music Library.xml')
+# l= Library('iTunes Music Library.xml')
 artists = []
 xmls = []
 countries = []
 cities = []
 
-class findArtists:
+def findArtist():
     for id, song in l.songs.items():
+        if song.artist is None:
+            continue
         if song.artist in artists:
             continue
         else:
@@ -24,7 +28,33 @@ class findArtists:
     print(artists)
 
     for item in xmls:
-        if item['artist-list'][0]['area']['type'] == 'City':
+        if 'area' not in item['artist-list'][0]:
+            countries.append('Unknown')
+        elif item['artist-list'][0]['area']['type'] == 'City':
+            city = (item['artist-list'][0]['area']['name'])
+            payload = {'q': 'foo', 'maxRows': 1, 'username': '007noon700'}
+            payload['q'] = city
+            r = requests.get('http://api.geonames.org/search', params=payload)
+            root = ET.fromstring(r.text)
+            # print(root[1][6].text)
+            countries.append(root[1][6].text)
+        elif item['artist-list'][0]['area']['type'] == 'Subdivision':
+            city = (item['artist-list'][0]['area']['name'])
+            payload = {'q': 'foo', 'maxRows': 1, 'username': '007noon700'}
+            payload['q'] = city
+            r = requests.get('http://api.geonames.org/search', params=payload)
+            root = ET.fromstring(r.text)
+            # print(root[1][6].text)
+            countries.append(root[1][6].text)
+        elif item['artist-list'][0]['area']['type'] == 'Municipality':
+            city = (item['artist-list'][0]['area']['name'])
+            payload = {'q': 'foo', 'maxRows': 1, 'username': '007noon700'}
+            payload['q'] = city
+            r = requests.get('http://api.geonames.org/search', params=payload)
+            root = ET.fromstring(r.text)
+            # print(root[1][6].text)
+            countries.append(root[1][6].text)
+        elif item['artist-list'][0]['area']['type'] == 'District':
             city = (item['artist-list'][0]['area']['name'])
             payload = {'q': 'foo', 'maxRows': 1, 'username': '007noon700'}
             payload['q'] = city
@@ -36,6 +66,6 @@ class findArtists:
             countries.append(item['artist-list'][0]['area']['name'])
     print(countries)
     totalCount = Counter(countries)
-    # print(totalCount)
+    print(totalCount)
 
 
